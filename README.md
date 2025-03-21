@@ -24,11 +24,12 @@ AIFFEL_quest_cr
 
 감사합니다.
 
-모두의 연구소 AIFFEL Research 13th 김영기 
+---
+
+#### 모두의 연구소 AIFFEL Research 13th 김영기 
 
 ###### Contact
 
 📧 : zerokee98@naver.com
 
 [💒Linkedin](https://www.linkedin.com/in/youngkee-kim-082179275/)
-```
