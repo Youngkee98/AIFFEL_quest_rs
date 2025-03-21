@@ -9,17 +9,56 @@
 
 레포지토리 현재 구조는 아래와 같습니다.
 ```bash
-AIFFEL_quest_cr
-├─Exploration
-│   └──README.md
-│
-├─ GoingDeeper
-│   └──README.md
-│
-├─MainQuest
-│   └──README.md
-│
-└──────────────
+AIFFEL_quest_rs
+├── Exploration
+│   ├── EX_1
+│   │   └── README.md
+│   ├── EX_2
+│   │   └── README.md
+│   ├── EX_3
+│   │   └── README.md
+│   ├── EX_4
+│   │   └── README.md
+│   ├── EX_5
+│   │   └── README.md
+│   ├── EX_6
+│   │   └── README.md
+│   ├── EX_7
+│   │   └── README.md
+│   └── README.md
+├── GoingDeeper
+│   ├── GD_1
+│   │   └── README.md
+│   ├── GD_2
+│   │   └── README.md
+│   ├── GD_3
+│   │   └── README.md
+│   ├── GD_4
+│   │   └── README.md
+│   ├── GD_5
+│   │   └── README.md
+│   ├── GD_6
+│   │   └── README.md
+│   ├── GD_7
+│   │   └── README.md
+│   ├── GD_8
+│   │   └── README.md
+│   ├── GD_9
+│   │   └── README.md
+│   └── README.md
+├── MainQuest
+│   ├── MQ_1
+│   │   └── README.md
+│   ├── MQ_2
+│   │   └── README.md
+│   ├── MQ_3
+│   │   └── README.md
+│   ├── MQ_4
+│   │   └── README.md
+│   ├── MQ_5
+│   │   └── README.md
+│   └── README.md
+└── README.md
 ```
 
 감사합니다.
