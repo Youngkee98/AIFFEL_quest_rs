@@ -14,21 +14,21 @@ AIFFEL_quest_cr
 │   ├──Exploration_01
 │   │   └──README.md
 │   │
-│   ├──README.md
+│   └──README.md
 │
 │
 ├─Flutter
 │   ├──Project01
 │   │   └──README.md
 │   │
-│   ├──README.md
+│   └──README.md
 │
 │
 ├─MainQuest
 │   ├──Quest01
 │   │   └──README.md
 │   │
-│   ├──README.md
+│   └──README.md
 │
 │
 ├─Python
@@ -36,14 +36,18 @@ AIFFEL_quest_cr
 │   │   ├── solution,py
 │   │   └──README.md
 │   │
-│   ├──README.md
+│   └──README.md
 │
-│──────────────
+└──────────────
 ```
 
 감사합니다.
 
-모두의 연구소 AIFFEL Research 13th 김영기
+모두의 연구소 AIFFEL Research 13th 김영기 
+
+###### Contact
+
 📧 : zerokee98@naver.com
+
 [💒Linkedin](https://www.linkedin.com/in/youngkee-kim-082179275/)
 ```
