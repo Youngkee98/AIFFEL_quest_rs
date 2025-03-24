@@ -9,56 +9,34 @@
 
 레포지토리 현재 구조는 아래와 같습니다.
 ```bash
-AIFFEL_quest_rs
-├── Exploration
-│   ├── EX_1
-│   │   └── README.md
-│   ├── EX_2
-│   │   └── README.md
-│   ├── EX_3
-│   │   └── README.md
-│   ├── EX_4
-│   │   └── README.md
-│   ├── EX_5
-│   │   └── README.md
-│   ├── EX_6
-│   │   └── README.md
-│   ├── EX_7
-│   │   └── README.md
-│   └── README.md
-├── GoingDeeper
-│   ├── GD_1
-│   │   └── README.md
-│   ├── GD_2
-│   │   └── README.md
-│   ├── GD_3
-│   │   └── README.md
-│   ├── GD_4
-│   │   └── README.md
-│   ├── GD_5
-│   │   └── README.md
-│   ├── GD_6
-│   │   └── README.md
-│   ├── GD_7
-│   │   └── README.md
-│   ├── GD_8
-│   │   └── README.md
-│   ├── GD_9
-│   │   └── README.md
-│   └── README.md
-├── MainQuest
-│   ├── MQ_1
-│   │   └── README.md
-│   ├── MQ_2
-│   │   └── README.md
-│   ├── MQ_3
-│   │   └── README.md
-│   ├── MQ_4
-│   │   └── README.md
-│   ├── MQ_5
-│   │   └── README.md
-│   └── README.md
-└── README.md
+AIFFEL_QUEST_RS
+├─Exploration
+│  ├─EX_1
+│  │  ├─1. Data_preprocess
+│  │  ├─2. Data_Visualization
+│  │  └─3. Evaluation Metric
+│  ├─EX_2
+│  ├─EX_3
+│  ├─EX_4
+│  ├─EX_5
+│  ├─EX_6
+│  └─EX_7
+├─GoingDeeper
+│  ├─GD_1
+│  ├─GD_2
+│  ├─GD_3
+│  ├─GD_4
+│  ├─GD_5
+│  ├─GD_6
+│  ├─GD_7
+│  ├─GD_8
+│  └─GD_9
+└─MainQuest
+    ├─MQ_1
+    ├─MQ_2
+    ├─MQ_3
+    ├─MQ_4
+    └─MQ_5
 ```
 
 감사합니다.
