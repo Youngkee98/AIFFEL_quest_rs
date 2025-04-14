@@ -77,8 +77,9 @@ load_image()
 def load_image(img_path, img_orig):
     ...
 
-img_path = "~~"
-img_orig = "~~"
+img_path = "img 경로"
+img_orig = cv2.imread(img_path)
 load_image(img_path, img_orig)
 '''
+위와 같이 객체와 하이퍼파라메터를 잘 활용해서 코드를 작성하면 좋아 보입니다.
 ```
