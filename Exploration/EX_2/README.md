@@ -64,4 +64,21 @@
 ```
 앞서 기존의 요구사항 수행하는 코드를 잘 작성하고, 계속해서 새로운 기능과 문제를 해결하기 위해
 다양한 방식으로 코드를 재작성하고, 고치는 과정이 매우 인상적이었습니다.
+다만, global로 변수를 지정하여 코드를 작성하는 방식이 코드 관리에 약간의 문제가 될 수 있어 보입니다.
+'''
+def load_image():
+    filename = input('파일이름을 알려주세요: ')
+    global img_path, img_orig
+    ...
+
+load_image()
+
+->
+def load_image(img_path, img_orig):
+    ...
+
+img_path = "~~"
+img_orig = "~~"
+load_image(img_path, img_orig)
+'''
 ```
