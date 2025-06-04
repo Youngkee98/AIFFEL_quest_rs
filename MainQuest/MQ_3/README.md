@@ -78,7 +78,8 @@ All models share a common architecture:
 ---
 
 ## 📈 Key Findings
-
+![F1_Comparison](https://github.com/user-attachments/assets/4ce0ee58-bac2-4163-a250-820866cf1f42)
+![Accuracy_Comparison](https://github.com/user-attachments/assets/f93bec66-3965-4849-920f-2bfc4281c711)
 - BiLSTM outperforms LSTM and GRU in both accuracy and F1
 - From vocab size 436 (43.6% coverage) and above, BiLSTM shows robust and stable performance
 - Data augmentation effectively mitigates the impact of class imbalance
